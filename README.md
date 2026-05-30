@@ -1,2 +1,2 @@
-# C--Programs-
+# C-Programs
 My C programming journey
